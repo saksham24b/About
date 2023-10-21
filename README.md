@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saksham and i am currently a Btech CSE student.
-- 👀 I don't know which path i will choose in future but right now i have keen interest in web development and cyber security.
 - 🌱 I have learnt HTML, CSS and some basics of python. Currently i am learning C language.
-- 💞️ I’m looking to collaborate on projects to gain experience and to learn new things.
+- 💞️ I’m looking to contribute in projects to gain experience and to learn new things.
 - 📫 You can reach me through my mail id: saksham24b@gmail.com
 
 <!---
